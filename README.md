@@ -50,7 +50,7 @@ $ python create_key.py key.json
 ``` 
 The `key.json` file name for saving the key
 
-![image](https://user-images.githubusercontent.com/78900834/208736787-7a3af2be-b873-44e6-aec5-0b067fb95fb8.png)
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/78900834/208737725-aff832ed-ce0b-427f-8b50-21ba8bd28b22.png">
 
 2. Create a key, to do this, write the command
 ```
@@ -59,14 +59,15 @@ $ python main.py key.json input.txt output.txt
 The `input.txt` file name with the initial text, the `output.txt`file name for saving the result
 
 ```
-$ python main.py key.json src/1.txt 1_out.txt
+$ python main.py key.json src/1.txt out.txt
 ```
 The result of text encryption
-![image](https://user-images.githubusercontent.com/78900834/208736849-f8ee1242-ec2f-45b4-b38a-0b9626a513a4.png)
 
+<img width="321" alt="image" src="https://user-images.githubusercontent.com/78900834/208737817-e889115c-d2f7-4cd0-8ed5-489ee2d1da68.png">
 
 ```
-$ python main.py key.json 1_out.txt 1_dec.txt
+$ python main.py key.json out.txt dec.txt
 ```
 The result of decrypting the text
-![image](https://user-images.githubusercontent.com/78900834/208736859-b7677a45-5291-400e-8d8d-b6225b711b12.png)
+
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/78900834/208738202-a10cea43-7bbd-4a45-bb18-162fb8f4b935.png">
