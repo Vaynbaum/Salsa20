@@ -58,6 +58,15 @@ $ python main.py key.json input.txt output.txt
 ```
 The `input.txt` file name with the initial text, the `output.txt`file name for saving the result
 
+```
+$ python main.py key.json src/1.txt 1_out.txt
+```
+The result of text encryption
 ![image](https://user-images.githubusercontent.com/78900834/208736849-f8ee1242-ec2f-45b4-b38a-0b9626a513a4.png)
 
+
+```
+$ python main.py key.json 1_out.txt 1_dec.txt
+```
+The result of decrypting the text
 ![image](https://user-images.githubusercontent.com/78900834/208736859-b7677a45-5291-400e-8d8d-b6225b711b12.png)
