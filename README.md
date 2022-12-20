@@ -50,6 +50,7 @@ $ python create_key.py key.json
 ``` 
 The `key.json` file name for saving the key
 
+![image](https://user-images.githubusercontent.com/78900834/208736787-7a3af2be-b873-44e6-aec5-0b067fb95fb8.png)
 
 2. Create a key, to do this, write the command
 ```
@@ -57,3 +58,6 @@ $ python main.py key.json input.txt output.txt
 ```
 The `input.txt` file name with the initial text, the `output.txt`file name for saving the result
 
+![image](https://user-images.githubusercontent.com/78900834/208736849-f8ee1242-ec2f-45b4-b38a-0b9626a513a4.png)
+
+![image](https://user-images.githubusercontent.com/78900834/208736859-b7677a45-5291-400e-8d8d-b6225b711b12.png)
