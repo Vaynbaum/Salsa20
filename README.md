@@ -1,11 +1,5 @@
 # Stream cipher Salsa20
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-
 ## About <a name = "about"></a>
 
 Console program for `encrypting` and `decrypting` text in a file using the `Salsa20` method.
