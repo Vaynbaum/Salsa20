@@ -1,14 +1,14 @@
 # Stream cipher Salsa20
 
-## About <a name = "about"></a>
+## About
 
 Console program for `encrypting` and `decrypting` text in a file using the `Salsa20` method.
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started
 
 You need to copy the project to your computer in a convenient way.
 
-## Usage <a name = "usage"></a>
+## Usage
 
 In the console from the project directory:
 
